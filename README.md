@@ -82,6 +82,9 @@ seg_in=4'b0110;
 seg_in=4'b0111;
 #100
 ```
+# OUTPUT:![seven segment](https://github.com/user-attachments/assets/0a7fa5cf-070b-4903-b635-fae161814b76)
+
+## OUTPUT:![Screen shot 2024-09-25 at 16 25 08_a8a16b1a](https://github.com/user-attachments/assets/fe9215d0-7aab-4ce5-96f7-dd8a7e67a7b4)
 
 
 ## Conclusion
